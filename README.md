@@ -2,4 +2,4 @@
 ie423-2025-2026-termproject-absolutecinema created by GitHub Classroom
 
 Semih Yavuz 122203014
-xx
+Mert Ata Tekçe 120203021
