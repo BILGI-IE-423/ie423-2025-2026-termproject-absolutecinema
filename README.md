@@ -1,9 +1,12 @@
 # IE 423 Term Project Proposal — AbsoluteCinema
 
+_ie423-2025-2026-termproject-absolutecinema — GitHub Classroom (BILGI-IE-423)_
+
 ## Team Members
-- [Name Surname]
-- [Name Surname]
-- [Name Surname]
+- Semih Yavuz (122203014)
+- Mert Ata Tekçe (120203021)
+- Çağan Gökta
+- Emir Türkseven
 
 ## Dataset
 Dataset: IMDB Dataset of 50K Movie Reviews  
