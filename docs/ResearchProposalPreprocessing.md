@@ -113,7 +113,7 @@ Numeric EDA summary: `outputs/tables/03_eda_summary.csv`
 ### 1. Clone the repository
 
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/BILGI-IE-423/ie423-2025-2026-termproject-absolutecinema.git
 cd AbsoluteCinema
 ```
 
