@@ -1,0 +1,5 @@
+metric,value
+count__negative,24698.0
+count__positive,24884.0
+mean_review_length_words,225.38507926263563
+median_review_length_words,169.0

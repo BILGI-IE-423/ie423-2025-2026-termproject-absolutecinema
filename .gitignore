@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.Python
+.venv/
+venv/
+env/
+
+# Large or regenerated data (see data/README.md for raw download)
+data/raw/*.csv
+data/processed/*.csv
+# Do not commit a copy left in repo root (use data/raw/ locally)
+/IMDB Dataset.csv
