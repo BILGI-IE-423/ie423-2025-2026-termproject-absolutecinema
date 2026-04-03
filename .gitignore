@@ -5,8 +5,5 @@ __pycache__/
 venv/
 env/
 
-# Large or regenerated data (see data/README.md for raw download)
-data/raw/*.csv
-data/processed/*.csv
-# Do not commit a copy left in repo root (use data/raw/ locally)
+# Optional: ignore duplicate dataset copy in repo root (use data/raw/)
 /IMDB Dataset.csv
