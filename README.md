@@ -41,3 +41,8 @@ python scripts/03_basic_eda.py
 See: `docs/ResearchProposalPreprocessing.md`
 
 ## Project Objective
+The primary objective of this project is to investigate the performance of machine learning algorithms in binary sentiment classification tasks using the IMDb 50K Movie Reviews dataset.
+
+The project focuses on analyzing textual movie reviews and automatically classifying them as positive or negative through NLP preprocessing, feature extraction, and supervised learning models.
+
+Additionally, the project aims to compare different classification approaches and determine the most accurate and efficient model for sentiment analysis.
