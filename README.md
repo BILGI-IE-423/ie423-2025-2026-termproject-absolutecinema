@@ -5,7 +5,7 @@ _ie423-2025-2026-termproject-absolutecinema — GitHub Classroom (BILGI-IE-423)_
 ## Team Members
 - Semih Yavuz (122203014)
 - Mert Ata Tekçe (120203021)
-- Çağan Gökta
+- Çağan Göktaş
 - Emir Türkseven
 
 ## Dataset
