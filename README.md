@@ -40,3 +40,4 @@ python scripts/03_basic_eda.py
 ## Main Proposal File
 See: `docs/ResearchProposalPreprocessing.md`
 
+## Project Objective
