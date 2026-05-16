@@ -1,0 +1,17 @@
+metric,value
+raw_rows,50000.0
+duplicate_rows_dropped,418.0
+null_rows_dropped,0.0
+empty_after_cleaning_dropped,0.0
+processed_rows,49582.0
+processed_columns,7.0
+positive_count,24884.0
+negative_count,24698.0
+class_balance_ratio,1.0075
+mean_word_count,225.39
+median_word_count,169.0
+std_word_count,167.13
+min_word_count,4.0
+max_word_count,2441.0
+mean_char_count,1240.45
+median_char_count,920.0

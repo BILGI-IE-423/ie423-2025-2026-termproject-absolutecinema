@@ -1,0 +1,49 @@
+# IE 423 Term Project Proposal — AbsoluteCinema
+
+_ie423-2025-2026-termproject-absolutecinema — GitHub Classroom (BILGI-IE-423)_
+
+## Team Members
+- Semih Yavuz (122203014)
+- Mert Ata Tekçe (120203021)
+- Çağan Göktaş
+- Emir Türkseven
+
+## Dataset
+Dataset: IMDB Dataset of 50K Movie Reviews  
+Source: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
+## Repository Structure
+- `data/` → raw and processed CSVs (tracked with **Git LFS**; after clone run `git lfs pull` if files look tiny or scripts fail). See also `data/README.md`.
+- `scripts/` → Python scripts for loading, preprocessing, and EDA
+- `outputs/figures/` → sentiment distribution, word-count histograms, boxplots, word clouds, top-N word charts
+- `outputs/tables/` → summary statistics CSVs (load, preprocess, EDA)
+- `docs/ResearchProposalPreprocessing.md` → main proposal presentation document
+
+## Installation
+Install [Git LFS](https://git-lfs.com/) once, then in the repo folder:
+```bash
+git lfs install
+git lfs pull
+```
+Python packages:
+```bash
+pip install -r requirements.txt
+```
+
+## Running the Project
+Run from the repository root (this folder):
+```bash
+python scripts/01_load_data.py
+python scripts/02_preprocess_data.py
+python scripts/03_basic_eda.py
+```
+
+## Main Proposal File
+See: `docs/ResearchProposalPreprocessing.md`
+
+## Project Objective
+The primary objective of this project is to investigate the performance of machine learning algorithms in binary sentiment classification tasks using the IMDb 50K Movie Reviews dataset.
+
+The project focuses on analyzing textual movie reviews and automatically classifying them as positive or negative through NLP preprocessing, feature extraction, and supervised learning models.
+
+Additionally, the project aims to compare different classification approaches and determine the most accurate and efficient model for sentiment analysis.

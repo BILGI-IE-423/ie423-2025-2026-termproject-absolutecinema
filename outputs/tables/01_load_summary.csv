@@ -1,0 +1,5 @@
+metric,value
+rows,50000
+columns,2
+missing__review,0
+missing__sentiment,0
