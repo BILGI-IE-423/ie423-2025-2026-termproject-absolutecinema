@@ -5,8 +5,8 @@ _ie423-2025-2026-termproject-absolutecinema — GitHub Classroom (BILGI-IE-423)_
 ## Team Members
 - Semih Yavuz (122203014)
 - Mert Ata Tekçe (120203021)
-- Çağan Göktaş
-- Emir Türkseven
+- Çağan Göktaş (122203064)
+- Emir Türkseven (122203015)
 
 ## Dataset
 Dataset: IMDB Dataset of 50K Movie Reviews  
